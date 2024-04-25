@@ -1,0 +1,50 @@
+.hed{
+   font-family: 'Marker Felt';
+   color: purple;
+   padding: 10px;
+    
+}
+label{
+    font-family: 'Marker Felt';
+    color: white;
+   
+  
+}
+body{
+    background-color: #330033;
+    text-align: center;
+   
+}
+input{
+    background-color: purple;
+    color: white;
+    font-family: 'Marker Felt';
+    margin-left: 10px;
+    
+   
+}
+.scarr{
+    float: left;
+    height: 100px;
+    width: 135px;
+    animation: rotate 5s linear infinite;
+}
+@keyframes rotate {
+    0% {
+      transform: rotate(0deg); 
+    }
+    100% {
+      transform: rotate(360deg); 
+    }
+  }
+.timeshow{
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+}
+.checkbox{
+    margin-top: 20px;
+}
+
+
+
