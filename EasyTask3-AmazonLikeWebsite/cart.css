@@ -1,0 +1,127 @@
+.cart-borders{
+    border: 1px solid black;
+    box-sizing: content-box;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 400px;
+    max-width: 600px;
+    border-radius: 10px;
+}
+#cart-img{
+    width: 300px;
+    margin-left: 150px;
+}
+#cart-h1{
+    text-align: center;
+
+}
+#cart-but{
+    margin-left: 190px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(202, 202, 231);
+    
+}
+#hello{
+    display: none;
+}
+#cart-image{
+    float:left;
+}
+#cart-h3{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+#cart-table{
+    margin-left: 95px;
+}
+#my-cart{
+    height: auto;
+    padding: 5px;
+}
+#cart-dec{
+    margin-right: 10px;
+    width: 30px;
+}
+#cart-inc{
+    margin-left: 10px;
+    width: 30px;
+}
+#empty-cart{
+    display: none;
+}
+#cart-borr{
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 100px;
+}
+.cart-table-data{
+    min-width: 300px;
+    text-align: left;
+    padding: 15px;
+    font-size: large;
+}
+.cart-table-header{
+    max-width: 300px;
+    text-align: left;
+    padding: 15px;
+    font-size:25px;
+    color: purple;
+}
+#cart-para{
+    font-size:large;
+    font-weight:lighter;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#cart-summary{
+    width: auto;
+    height: auto;
+    max-width: 300px;
+    padding: 10px;
+    background-color: #D8BFD8;
+}
+.cart-summary-td{
+    min-width: 100px;
+    margin-left: 20px;
+    padding:20px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#cart-summary-but{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 230px;
+    height: 35px;
+    margin-bottom: 15px;
+    font-size: large;
+    background-color: rgb(161,161,234);;
+}
+#my-cart{
+    float: left;
+    margin-left: 120px;
+
+}
+#cart-summary{
+    margin-left: 1000px;
+    margin-top: 0px;
+}
+#cart-dec{
+    background-color: rgb(202, 202, 231);
+}
+#cart-inc{
+    background-color: rgb(202, 202, 231);
+}
+#cart-borr{
+    background-color: #E6E6FA;
+}
+#my-cart{
+    background-color: #D8BFD8;
+}
+.customgod{
+   
+    padding:7px;
+}
+.customgod1{
+    margin-bottom: 15px;
+}

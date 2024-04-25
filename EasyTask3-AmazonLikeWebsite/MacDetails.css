@@ -1,0 +1,156 @@
+.borders1{
+    border:1px solid black;
+    box-sizing: content-box;
+   
+}
+#left{
+    float:left;
+    width: 480px;
+    height: 500px;
+    margin-top: 20px;
+    
+}
+#comp{
+    width: 480px;
+    height: 500px;
+}
+#right{
+    float: right;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(250, 246, 246);
+    margin-top: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#center{
+    max-width: 600px;
+    height:600px;
+    margin-left: 500px;
+    margin-top: auto;
+    padding: 10px;
+    height: max-content;
+    border: 0px;
+    margin-top: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#stars{
+    height:25px;
+    width:50px;
+    float: left;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+p{
+    margin-bottom: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.macdetails-payment{
+    text-align: left;
+    margin-top: 0px;
+}
+#rating{
+    font-size: 15px;
+    margin-left: 75px;
+    color: purple;
+}
+.details-a{
+    float: left;
+    
+
+}
+.macdetailstable{
+    text-align: left;
+    padding: 5px;
+    margin-left: 30%;
+    border: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    
+}
+span{
+    color: purple;
+    font-weight: bold;
+    
+}
+.amazon{
+    width: 75px;
+    margin-left: 60px;
+}
+.details-a{
+    margin-left: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: bold;
+}
+#d1{
+    margin-left: 58px;
+    font-weight: bold;
+}
+#d2{
+    margin-left: 30px;
+    font-weight: bold;
+}
+#d3{
+    margin-left: 70px;
+    font-weight: bold;
+}
+#d11{
+    color: black;
+    margin-left: -15px;
+
+    
+    
+}
+#d12{
+    color: black;
+    margin-left: -5px;
+   
+
+  
+}
+.macdetailsth{
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.macdetailstd{
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#tble{
+    margin-left: 0px;
+}
+.butt{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight:bold;
+    text-shadow: 10px;
+}
+#buy{
+    background-color: rgb(202, 202, 231);
+}
+#add{
+    background-color: rgb(161,161,234);
+}
+.phonepop{
+ 
+    width:80%;
+    height:32%;
+    margin-left:200px;
+    display: none;
+    position: absolute;
+    z-index: 1;
+  
+    
+    
+    
+  }
+  h3{
+    margin-left: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  ul{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  li{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
